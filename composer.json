@@ -1,6 +1,7 @@
 {
   "name": "locastic/api-platform-translation-bundle",
   "description": "Translation bundle for Api platform based on Sylius translation",
+  "type": "symfony-bundle",
   "license": "MIT",
   "authors": [
     {
