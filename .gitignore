@@ -1,0 +1,9 @@
+## PhpStorm Settings
+.idea
+
+# bin files
+bin/
+
+## Composer
+composer.lock
+vendor/
